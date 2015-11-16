@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="msgAddSucess">Contato adicionado com sucesso!</string>
+    <string name="txtName">Nome: </string>
+    <string name="txtEmail">Email: </string>
+    <string name="btnAddContact">Adicionar contato</string>
+    <string name="txtTitle">Lista de Contatos: </string>
+    <string name="txtId">Id: </string>
+    <string name="btnDelContact">Exculir contato</string>
+    <string name="msgDelSucess">Contato excluído com sucesso!</string>
+    <string name="msgFail">Falha na operação.</string>
+    <string name="btnUpContact">Atualizar contato</string>
+    <string name="msgUpSucess">Contato atualizado com sucesso!</string>
+    
+
+</resources>
